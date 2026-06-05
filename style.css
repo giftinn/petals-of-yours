@@ -23,7 +23,7 @@ body {
 /* Love Message Styles */
 .love-message {
   position: fixed;
-  top: 10%;
+  top: 5%;
   left: 50%;
   transform: translateX(-50%);
   z-index: 1000;
